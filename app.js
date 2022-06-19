@@ -1,0 +1,1 @@
+let aplicativos = ["Instagram", "WhatsApp", "Grasshopper"];
